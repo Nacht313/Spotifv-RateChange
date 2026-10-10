@@ -1,1 +1,1 @@
-# RateSync-personal
+# personal
